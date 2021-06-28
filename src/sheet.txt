@@ -1,3 +1,32 @@
+[se]|a|s|a|
+[sq]|o|s|i|||
+t u [se]|a|s|a|
+[sq]|o|s|i|||
+t u [se]|a s u t a s q t o s q t o i
+[u8]|i|o|[u8]|[yw]||
+t r [t6]|0|t|
+t y [u4]|8|u|
+u i [o8]|w|t|
+i u [y5]|9|r|
+t u [se]|a s u t a s q t o s q t o i
+[ut]|i|o|f|
+[wd]|y df[rd]|
+s a [se]|u|s|
+s d [qf]|t|f|
+f g [th]|o|s|
+g f [wd]|y|
+s d s a [se] t o t
+s d s a [sq] t o t
+s d s a [s8] d f g [h0] f d s [wa]||
+s d s a [se] t o t
+s d s a [sq] t o t
+s d s a [s8] d f g [h0] f d s [wa]||
+s sds a [se] t o t
+s sds a [sq] t o t
+s sds a [s8] d f g [h0] f d s [wa]||
+s sds a [se] t o t
+s sds a [sq] t o t
+s sds a [s8] d f g [h0] f d s [wa]|9|w||
 [se]|a s u t a s q t o s q t o i
 [u8]|i|o|[u8]|[yw]||
 t r [t6]|0|t|

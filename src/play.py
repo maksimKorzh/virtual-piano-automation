@@ -35,7 +35,11 @@ with open('sheet.txt') as f:
     # loop over notes
     while index in range(len(notes)):
         if notes[index].isalpha() or notes[index].isdigit():
+            # mimic piano key press
             pg.press(notes[index])
+            
+            # print pressed key
+            print("pressed key:", notes[index])
         
         else:
             # handle long notes
@@ -56,9 +60,12 @@ with open('sheet.txt') as f:
                     # go to next note within a chord
                     index += 1
                 
-                # play chord
+                # mimic piaono chord play
                 exec('pg.hotkey(' + str(chord)[1: -1] + ')')
-        
+                
+                # print pressed keys
+                print("pressed keys:", chord)
+
         # default pause between notes
         time.sleep(delay)
             
