@@ -1,7 +1,7 @@
 ########################################
 #
 # Python script to automatically play
-#    musicsheets on Virtual Piano
+#    music sheets on Virtual Piano
 #    (https://virtualpiano.net/)
 #
 #                by
@@ -21,7 +21,14 @@ print('your browser window with virtual piano in focus!')
 print('Music would startplaying in 5 sec...')
 time.sleep(5)
 
-# delay between notes
+# =====================================
+# Preferred delays for different pieces
+# =====================================
+#
+# Interstellar Main Theme:          0.1
+# Yiruma - River flows in you:     0.03
+
+# delay between notes (change tempo)
 delay = 0.03
 
 # open music sheet
