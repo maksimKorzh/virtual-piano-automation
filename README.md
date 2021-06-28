@@ -15,4 +15,4 @@ Play music sheets at Virtual Piano automatically with pyautogui
 5. Get browser window with Virtual Piano in focus
 
 # Get free pieces
-    https://virtualpiano.net/music-sheets/
+    <a htef="https://virtualpiano.net/music-sheets/">https://virtualpiano.net/music-sheets/</a>
