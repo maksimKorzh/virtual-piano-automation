@@ -2,7 +2,7 @@
 Play music sheets at Virtual Piano automatically with pyautogui
 
 # Listen to examples
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL-RIUF52Zg/0.jpg)](https://www.youtube.com/watch?v=nL-RIUF52Zg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL-RIUF52Zg/0.jpg)](https://www.youtube.com/watch?v=nL-RIUF52Zg&list=PLLfIBXQeu3aazjuL9ESRcevDC1TIS79SZ)
 
 # Install dependencies
     pip install pyautogui
