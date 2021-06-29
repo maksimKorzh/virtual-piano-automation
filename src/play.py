@@ -27,8 +27,9 @@ time.sleep(5)
 #
 # Interstellar Main Theme:          0.1
 # Yiruma - River flows in you:     0.03
-# Amélie Valse                      0.1
+# Valse (Amélie)                    0.1
 # Comptine d'un autre été (Amélie) 0.08
+# Goblin OST                       0.06
 
 # delay between notes (change tempo)
 delay = 0.03
